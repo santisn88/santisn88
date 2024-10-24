@@ -1,9 +1,10 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/santisn88/santisn88/blob/main/Github%20banner.png" width="800"/>
-</div>
+</div
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-sansur)
-
+<div id="header" align="center">
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-sansur)
+</div
 <!--
 **santisn88/santisn88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
