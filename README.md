@@ -2,12 +2,6 @@
   <img decoding="async" src="https://github.com/santisn88/santisn88/blob/main/Github%20banner.png" width="800"/>
 </div
 
-<div id="header" align="center">
-  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-sansur)
-  
-</div
-
 <h1>
   Hola soy Santiago ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
