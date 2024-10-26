@@ -24,4 +24,4 @@
 
 * 💡: Me encanta descubrir nuevas formas de automatizar mi trabajo y ser más eficiente en el manejo de datos para la toma de decisiones.
 
-* 📫: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/santiago-sansur-ingenieromecanico)
+* 📫: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-santisn88-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/santiago-sansur-ingenieromecanico)
