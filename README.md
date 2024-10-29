@@ -3,7 +3,13 @@
 </div
 
 <h1>
-  Hola soy Santiago ¡Encantado de conocerte!
+  Hola soy Santiago
+
+Soy un profesional orientado a la implementación de herramientas digitales para la optimización y análisis de
+ datos. Con experiencia en reducir el tiempo en la toma de decisiones mediante sistemas de datos organizados y
+ accesibles, me destaco por mi enfoque práctico, responsable y adaptativo. Soy autodidacta, con sólidas habilidades
+ en herramientas digitales y software especializado, lo cual me permite aportar soluciones efectivas a problemas
+ complejos y facilitar una mejor gestión de la información para decisiones estratégicas.
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
